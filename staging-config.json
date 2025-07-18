@@ -4,6 +4,7 @@
     "EndpointInstanceCount": "1",
     "EndpointInstanceType": "ml.m5.large",
     "SamplingPercentage": "100",
-    "EnableDataCapture": "true"
+    "EnableDataCapture": "true",
+    "ImageUri": "643202173500.dkr.ecr.eu-central-1.amazonaws.com/mlops_cop:latest"
   }
 }
